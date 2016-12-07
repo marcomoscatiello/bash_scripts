@@ -1,0 +1,8 @@
+dev1-living-social-subscription : Queue : dev1-living-social-sailthru-subscription
+dev1-living-social-subscription_dlq : Queue : dev1-living-social-sailthru-subscription_dlq
+dev1-living-social-unsubscription : Queue : dev1-living-social-sailthru-unsubscription
+dev1-living-social-unsubscription_dlq : Queue : dev1-living-social-sailthru-unsubscription_dlq
+dev1-living-social-bulk-unsubscription : Queue : dev1-living-social-sailthru-bulk-unsubscription
+dev1-living-social-bulk-unsubscription_dlq : Queue : dev1-living-social-sailthru-bulk-unsubscription_dlq
+dev1-living-social-updateUser : Queue : dev1-living-social-sailthru-updateUser
+dev1-living-social-updateUser_dlq : Queue : dev1-living-social-sailthru-updateUser_dlq
